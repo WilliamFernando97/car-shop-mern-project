@@ -1,0 +1,8 @@
+username: williamtandazo97
+password: carshoppassword123
+
+REACT
+client/yarn start
+
+MONGO
+server/yarn start
